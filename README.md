@@ -8,3 +8,6 @@ This repository contains several small projects demonstrating key concepts in da
 
 # Requirements
 Python with no additional libraries needed.
+
+## Note: 
+This project was part of a university exam, so some comments or files may be in Serbian.
